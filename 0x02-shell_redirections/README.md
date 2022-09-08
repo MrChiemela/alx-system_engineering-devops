@@ -1,1 +1,1 @@
-Write a script that displays all users and their home directories, sorted by users
+regular files with a .js extension that are present in the current directory and all its subfolders
